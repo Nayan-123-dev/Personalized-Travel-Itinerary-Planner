@@ -2,7 +2,7 @@
 
 APP_NAME = "Personalized Travel Itinerary Planner"
 APP_SUBTITLE = "AI-Driven Intelligent Route Clustering & Dynamic Vibe Customization"
-CAPSTONE_PROJECT = "Skill Wallet Capstone Project 4"
+CAPSTONE_PROJECT = "Personalized Travel Itinerary Planner"
 
 # Supported Currencies and Baseline Exchange Rates relative to USD
 CURRENCIES = {
